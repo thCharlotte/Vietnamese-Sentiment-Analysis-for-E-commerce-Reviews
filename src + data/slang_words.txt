@@ -1,0 +1,54 @@
+ae : anh em
+tks : cảm ơn
+bb : bye bye
+hcm : Hồ Chí Minh
+hn : Hà Nội
+km : khuyến mãi
+hàng fake : hàng giả
+freeship : miễn phí vận chuyển
+shipper : người giao hàng
+kh : không
+ko : không
+k : không
+ship : giao hàng
+Ship : giao hàng
+t : tôi 
+bth : bình thường
+đc : được
+ok : ổn
+vs : với 
+j : gì 
+chat : trò chuyện
+v : vậy
+z : vậy
+r : rồi 
+app : ứng dụng
+nhma : nhưng mà
+nma : nhưng mà 
+mn : mọi người
+lm : j
+acc : tài khoản
+mxh : mạng xã hội
+klq : không liên quan 
+thui: thôi
+thoi : thôi
+vkl : rất
+vl : rất
+cmt : bình luận
+rep : trả lời
+ib : nhắn tin
+inbox : nhắn tin
+sml : rất mệt
+khum : không
+hok : không
+ko hiểu : không hiểu
+fake : giả
+order : đặt hàng
+refund : hoàn tiền
+feedback : phản hồi
+del : xoá
+
+
+
+
+
